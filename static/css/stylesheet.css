@@ -1,0 +1,28 @@
+body {
+ background-image:url("https://i.pinimg.com/originals/cd/36/ef/cd36ef99d33385a257b0a4bff40d4ceb.jpg"); 
+  color: orange;
+  background-size:cover;
+}
+
+
+.navigation{
+  background-color:blue;
+  float:right;
+  overflow:hidden;
+  text-align:left;
+  padding: 5px;
+}
+
+.navigation-container{
+  margin:auto;
+  width:650px;
+}
+
+.content {
+  background-color:white;
+padding: 5px 10px;
+}
+
+.container{ 
+margin: 120px;
+}
