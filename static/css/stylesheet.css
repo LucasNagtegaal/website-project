@@ -1,5 +1,5 @@
 body {
- background-image:url("https://i.pinimg.com/originals/cd/36/ef/cd36ef99d33385a257b0a4bff40d4ceb.jpg"); 
+ background-image:url("../images/background.jpg"); 
   color: orange;
   background-size:cover;
 }
@@ -25,4 +25,12 @@ padding: 5px 10px;
 
 .container{ 
 margin: 120px;
+}
+
+.computer {
+   width:35%;
+   height:35%;
+  display:block;
+  float:right;
+  margin:20px;
 }
