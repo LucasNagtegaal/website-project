@@ -1,36 +1,43 @@
 body {
- background-image:url("../images/background.jpg"); 
+  background-image: url("../images/background.jpg");
   color: orange;
-  background-size:cover;
+  background-size: cover;
 }
 
-
-.navigation{
-  background-color:blue;
-  float:right;
-  overflow:hidden;
-  text-align:left;
+.navigation {
+  background-color: blue;
+  float: right;
+  overflow: hidden;
+  text-align: left;
   padding: 5px;
 }
 
-.navigation-container{
-  margin:auto;
-  width:650px;
+.navigation-container {
+  margin: auto;
+  width: 650px;
 }
 
 .content {
-  background-color:white;
-padding: 5px 10px;
+  background-color: white;
+  padding: 5px 10px;
 }
 
-.container{ 
-margin: 120px;
+.container {
+  margin: 120px;
 }
 
 .computer {
-   width:35%;
-   height:35%;
-  display:block;
-  float:right;
-  margin:20px;
+  width: 35%;
+  height: 35%;
+  display: block;
+  float: right;
+  margin: 20px;
+}
+
+.gezondheid {
+  width: 40%;
+  height: 40%;
+  display: block;
+  float: right;
+  margin: 20px;
 }
